@@ -9,10 +9,7 @@ baseurl: ''
 author:
   name: '방민지'
   email: qkdalswl10y@gmail.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
   github_username:  minjibang
-  linkedin_username:  joshgerdes
 
 defaults:
   -
