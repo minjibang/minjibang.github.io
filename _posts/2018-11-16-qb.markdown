@@ -29,7 +29,8 @@ Velocity, DataTables, Google Map, Q-net 자격증정보 공공데이터 API, Jav
 * MariaDB
 
 * 형상관리: Github, Google Drive
-* 툴: Spring Tool Suite, HeidiSQL, SourceTree, Exerd, Bracket, Atom, Putty, KakaoOven	
+* 툴: Spring Tool Suite, HeidiSQL, SourceTree, Exerd, Bracket, Atom, Putty, KakaoOven	<br>
+
   {% include qbinstrovedio.html.html id="https://youtu.be/YSDqKahD3to" %}  
 
 
