@@ -8,7 +8,7 @@ tags: [Java][Ajax][Jquery][Oracle]
 BUSK는 버스킹(길거리공연)을 매개로 뮤지션,공연주최자를 연결하는 버스킹 플랫폼 서비스 입니다.
 
 
-<img scr="/img/posts/2ndmain.png"></img>
+<img src="/img/posts/2ndmain.png"></img>
 ``` ruby
 def print_hi(name)
   puts "Hi, #{name}"
