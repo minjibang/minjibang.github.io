@@ -4,13 +4,11 @@ date:   2018-08-29 15:04:23
 categories: [project]
 tags: [Java][Ajax][Jquery][Oracle]
 ---
-버스킹(거리공연)을 하는 사람들이 많아지면서<br> 공연장소가 점점 부족해 지고 있습니다.<br> 그런 문제점을 해결하고자 개발하였습니다.<br>
-BUSK는 버스킹(길거리공연)을 매개로<br> 뮤지션,공연주최자를 연결하는 버스킹 플랫폼 서비스 입니다.
+버스킹(거리공연)을 하는 사람들이 많아지면서 공연장소가 점점 부족해 지고 있습니다.<br> 그런 문제점을 해결하고자 개발하였습니다.<br>
+BUSK는 버스킹(길거리공연)을 매개로 뮤지션,공연주최자를 연결하는 버스킹 플랫폼 서비스 입니다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
-
+<img scr="/img/posts/2ndmain.png"></img>
 ``` ruby
 def print_hi(name)
   puts "Hi, #{name}"
