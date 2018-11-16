@@ -1,8 +1,8 @@
 ---
 title:  "BUSK"
 date:   2018-08-29 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+categories: [project]
+tags: [Java][Ajax][Jquery][Oracle]
 ---
 버스킹(거리공연)을 하는 사람들이 많아지면서<br> 공연장소가 점점 부족해 지고 있습니다.<br> 그런 문제점을 해결하고자 개발하였습니다.<br>
 BUSK는 버스킹(길거리공연)을 매개로<br> 뮤지션,공연주최자를 연결하는 버스킹 플랫폼 서비스 입니다.
