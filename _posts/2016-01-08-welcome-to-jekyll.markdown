@@ -9,7 +9,7 @@ BUSK는 버스킹(길거리공연)을 매개로 뮤지션,공연주최자를 연
 
 <img src="{{site.baseurl}}/images/2ndmain.png"/>
 
-<p style="font-size:15pt;">[기능]</p>
+<p style="font-size:13pt;">[기능]</p>
 
 유저는 관리자, 버스커, 팬 으로 나뉩니다.<br>
 
@@ -19,10 +19,12 @@ BUSK는 버스킹(길거리공연)을 매개로 뮤지션,공연주최자를 연
 
 관리자:버스커와, 일반사용자가 사용할 수 있는 모든 기능 사용가능<br>
 
-<p style="font-size:15pt;">[개발환경]</p>
-* JAVA, MVC model2 기반 -Eclips, Exerd, 카카오 오븐
+<p style="font-size:13pt;">[개발환경]</p>
+* JAVA, MVC model2 기반 
+* 사용툴: Eclips, brackets, atom, Exerd, sqldeveloper, 카카오오븐
+* 사용기술:Jquery, Ajax
 
-<p style="font-size:15pt;">[담당업무]</P>
+<p style="font-size:13pt;">[담당업무]</P>
 * 회원가입, 로그인, 이메일인증 
 * 관리자 페이지:회원관리 
 * 버스커 페이지: 팬 목록 관리 -스토리보드 작성
