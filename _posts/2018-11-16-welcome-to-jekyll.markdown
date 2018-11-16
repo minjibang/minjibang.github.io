@@ -11,6 +11,8 @@ tags: [Spring]
 <br>
 문제 은행, 시험응시, 자동 채점, 학생 및 성적관리, 성적 통계 자료 생성 및 문서화 서비스를 제공합니다.<br>
 
+<img src="{{site.baseurl}}/images/finalmainp.png"/>
+
 <p style="font-size:13pt;">[FRONT-END]</p>
 * HTML5, CSS3, JavaScript, JSP, Bootstrap3, jQuery-UI, Ajax, SweetAlert, Chart-JS, <br>
 Velocity, DataTables, Google Map, Q-net 자격증정보 공공데이터 API, JavaMail API, COOL-SMS, SUMMERNOTE, Full-calendar<br><br>
