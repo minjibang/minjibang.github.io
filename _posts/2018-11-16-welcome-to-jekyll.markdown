@@ -1,33 +1,30 @@
 ---
-title:  "QB"
+title:  "QB(Questionnaire Bank)"
 date:   2018-11-22 15:04:23
 categories: [project]
 tags: [Spring]
 ---
-버스킹(거리공연)을 하는 사람들이 많아지면서 공연장소가 점점 부족해 지고 있습니다.<br> 그런 문제점을 해결하고자 개발하였습니다.<br>
-BUSK는 버스킹(길거리공연)을 매개로 뮤지션,공연주최자를 연결하는 버스킹 플랫폼 서비스 입니다.
+‘QBQB’ 는 교육기관에서 활용되는 문제, 시험, 성적 관리 시스템으로,<br>
+현재 종이로 이루어지는 시험 응시 과정과 수동으로 작업되는 문제 출제 및 채점 과정, <br>
+성적 관리 업무를 전산화 하여 교육기관의 업무 효율 뿐 아니라 정확성 또한 높이도록 설계되었습니다.<br>
+<br>
+문제 은행, 시험응시, 자동 채점, 학생 및 성적관리, 성적 통계 자료 생성 및 문서화 서비스를 제공합니다.<br>
 
-<img src="{{site.baseurl}}/images/2ndmain.png"/>
+<p style="font-size:13pt;">[FRONT-END]</p>
+* HTML5, CSS3, JavaScript, JSP, Bootstrap3, jQuery-UI, Ajax, SweetAlert, Chart-JS, Velocity, DataTables, Google Map, Q-net 자격증정보 공공데이터 API, JavaMail API, COOL-SMS, SUMMERNOTE, Full-calendar
 
-<p style="font-size:13pt;">[기능]</p>
+<p style="font-size:13pt;">[BACK-END]</p>
+* Java, Spring Framework, Maven, mybatis, Tiles, Web Socket, Spring Security
 
-유저는 관리자, 버스커, 팬 으로 나뉩니다.<br>
+<p style="font-size:13pt;">[SERVER]</p>
+* Apache Tomcat 9, AWS, UBUNTU
 
-버스커:공연을 신청, 주최, 취소가능, 다른 버스커 팔로우 기능, 개인페이지에 사진등록 가능<br>
+<p style="font-size:13pt;">[DataBase]</p>
+* MariaDB
 
-팬:공연을 주최, 버스커 팔로우 가능, 버스커의 페이지에 댓글달기 기능(한줄평)<br>
+* 형상관리: Github, Google Drive
+* 툴: Spring Tool Suite, HeidiSQL, SourceTree, Exerd, Bracket, Atom, Putty, KakaoOven	
 
-관리자:버스커와, 일반사용자가 사용할 수 있는 모든 기능 사용가능<br>
-
-<p style="font-size:13pt;">[개발환경]</p>
-* JAVA, MVC model2 기반 
-* 사용툴: Eclips, brackets, atom, Exerd, sqldeveloper, 카카오오븐
-* 사용기술:Jquery, Ajax
-
-<p style="font-size:13pt;">[담당업무]</P>
-* 회원가입, 로그인, 이메일인증 
-* 관리자 페이지:회원관리 
-* 버스커 페이지: 팬 목록 관리 -스토리보드 작성
 
 
 [jekyll]:      http://jekyllrb.com
