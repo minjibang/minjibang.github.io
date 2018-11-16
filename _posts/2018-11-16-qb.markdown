@@ -31,9 +31,6 @@ Velocity, DataTables, Google Map, Q-net 자격증정보 공공데이터 API, Jav
 * 형상관리: Github, Google Drive
 * 툴: Spring Tool Suite, HeidiSQL, SourceTree, Exerd, Bracket, Atom, Putty, KakaoOven	<br>
 
-<iframe class="youtube" src="https://youtu.be/YSDqKahD3to"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width:100%; height: 100%;"></iframe>  
-
 
 
 
