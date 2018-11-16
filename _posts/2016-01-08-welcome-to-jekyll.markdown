@@ -1,11 +1,11 @@
 ---
 title:  "BUSK"
-date:   2018-08-13 ~ 2018-08-29
+date:   2018-08-29
 categories: [Project]
 tags: [JAVA][Jquery][Ajax][Oracle]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
-
+"버스킹(거리공연)을 하는 사람들이 많아지면서<br> 공연장소가 점점 부족해 지고 있습니다.<br> 그런 문제점을 해결하고자 개발하였습니다.<br>
+BUSK는 버스킹(길거리공연)을 매개로<br> 뮤지션,공연주최자를 연결하는 버스킹 플랫폼 서비스 입니다."
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
