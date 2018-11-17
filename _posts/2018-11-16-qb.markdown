@@ -57,6 +57,9 @@ Velocity, DataTables, Google Map, Q-net 자격증정보 공공데이터 API, Jav
 -시험등록페이지에서 시험대상을 선택하고 날짜, 시간 등을 입력합니다.
 
 * AWS
+http://52.78.103.95:8090/qb
+
+-해당 url로 들어가서 확인할 수 있습니다.
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
