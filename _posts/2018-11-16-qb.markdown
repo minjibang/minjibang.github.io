@@ -31,7 +31,13 @@ Velocity, DataTables, Google Map, Q-net 자격증정보 공공데이터 API, Jav
 * 형상관리: Github, Google Drive
 * 툴: Spring Tool Suite, HeidiSQL, SourceTree, Exerd, Bracket, Atom, Putty, KakaoOven	<br>
 
-<iframe width="560" height="315" src="https://youtu.be/t0khBQJVRgs" frameborder="0"> </iframe>
+<p style="font-size:13pt;">[담당업무]</p>
+
+* 웹소켓을 이용한 실시간 쪽지알림 기능
+
+* 클래스 관리 기능
+* 시험일정 등록, 수정, 삭제 기능
+* AWS
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
