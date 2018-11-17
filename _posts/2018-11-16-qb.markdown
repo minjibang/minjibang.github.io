@@ -50,7 +50,9 @@ Velocity, DataTables, Google Map, Q-net 자격증정보 공공데이터 API, Jav
 
 <img src="{{site.baseurl}}/images/examregi.PNG"/>
 -시험관리페이지에서 무한 스크롤로 페이징 처리를 하였습니다.
+
 <img src="{{site.baseurl}}/images/examregi2.PNG"/>
+
 <img src="{{site.baseurl}}/images/examregi3.PNG"/>
 -시험등록페이지에서 시험대상을 선택하고 날짜, 시간 등을 입력합니다.
 
