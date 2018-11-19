@@ -56,6 +56,11 @@ Velocity, DataTables, Google Map, Q-net 자격증정보 공공데이터 API, Jav
 <img src="{{site.baseurl}}/images/examregi3.PNG"/>
 -시험등록페이지에서 시험대상을 선택하고 날짜, 시간 등을 입력합니다.
 
+*Google map API
+
+<img src="{{site.baseurl}}/images/googlemap.PNG"/>
+-key를 발급받아 위도, 경도를 설정합니다.
+
 * AWS <br>
 http://52.78.103.95:8090/qb
 
